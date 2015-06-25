@@ -1,0 +1,822 @@
+[ INFO][2015.06.25 09:33:42,012][Thread-0](FileClientMain.java:52),mPercent :0
+[ INFO][2015.06.25 09:33:42,118][Thread-0](FileClientMain.java:52),mPercent :0
+[ INFO][2015.06.25 09:33:42,218][Thread-0](FileClientMain.java:52),mPercent :100
+[ INFO][2015.06.25 09:33:42,318][Thread-0](FileClientMain.java:52),mPercent :9
+[ INFO][2015.06.25 15:41:37,749][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:37,858][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:37,968][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:38,077][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:38,187][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:38,296][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:38,407][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:38,516][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:38,532][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:38,625][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:38,641][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:38,735][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:38,750][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:38,844][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:38,859][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:38,954][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:38,970][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:39,063][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:39,079][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:39,079][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:39,172][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:39,188][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:39,188][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:39,282][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:39,297][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:39,297][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:39,392][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:39,407][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:39,407][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:39,501][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:39,517][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:39,517][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:39,610][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:39,626][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:39,626][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:39,719][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:39,735][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:39,735][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:39,829][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:39,844][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:39,844][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:39,938][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:39,953][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:39,953][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:40,047][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:40,063][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:40,063][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:40,156][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:40,172][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:40,172][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:40,265][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:40,281][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:40,281][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:40,375][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:40,390][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:40,390][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:40,485][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:40,500][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:40,500][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:40,594][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:40,610][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:40,610][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:40,703][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:40,719][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:40,719][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:40,812][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:40,828][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:40,828][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:40,922][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:40,937][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:40,937][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:41,031][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:41,046][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:41,046][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:41,140][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:41,156][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:41,156][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:41,249][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:41,265][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:41,265][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:41,358][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:41,374][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:41,374][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:41,468][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:41,483][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:41,483][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:41,578][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:41,593][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:41,593][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:41,687][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:41,703][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:41,703][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:41,796][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:41,812][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:41,812][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:41,905][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:41,921][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:41,921][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:42,015][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:42,030][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:42,030][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:42,124][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:42,139][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:42,139][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:42,233][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:42,249][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:42,249][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:42,342][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:42,358][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:42,358][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:42,451][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:42,467][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:42,467][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:42,561][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:42,576][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:42,576][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:42,671][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:42,686][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:42,686][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:42,780][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:42,796][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:42,796][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:42,889][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:42,905][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:42,905][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:42,998][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:43,014][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:43,014][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:43,108][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:43,123][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:43,123][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:43,217][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:43,232][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:43,232][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:43,326][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:43,342][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:43,342][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:43,435][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:43,451][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:43,451][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:43,544][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:43,560][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:43,560][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:43,654][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:43,669][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:43,669][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:43,764][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:43,779][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:43,779][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:43,873][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:43,889][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:43,889][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:43,982][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:43,998][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:43,998][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:44,091][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:44,107][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:41:44,107][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:46:38,047][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:46:38,156][Thread-0](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:46:38,267][Thread-0](FileClientMain.java:114),progressBarStatus :3
+[ INFO][2015.06.25 15:46:38,314][Thread-1](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:46:38,376][Thread-0](FileClientMain.java:114),progressBarStatus :100
+[ INFO][2015.06.25 15:46:38,423][Thread-1](FileClientMain.java:114),progressBarStatus :6
+[ INFO][2015.06.25 15:46:38,532][Thread-1](FileClientMain.java:114),progressBarStatus :31
+[ INFO][2015.06.25 15:46:38,641][Thread-1](FileClientMain.java:114),progressBarStatus :55
+[ INFO][2015.06.25 15:46:38,751][Thread-1](FileClientMain.java:114),progressBarStatus :81
+[ INFO][2015.06.25 15:46:38,831][Thread-2](FileClientMain.java:114),progressBarStatus :0
+[ INFO][2015.06.25 15:46:38,862][Thread-1](FileClientMain.java:114),progressBarStatus :100
+[ INFO][2015.06.25 15:46:38,940][Thread-2](FileClientMain.java:114),progressBarStatus :74
+[ INFO][2015.06.25 15:46:39,049][Thread-2](FileClientMain.java:114),progressBarStatus :100
+[ INFO][2015.06.25 15:48:50,717][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 15:48:50,826][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 15:48:50,938][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 15:48:50,984][Thread-1](FileClientMain.java:115),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :0
+[ INFO][2015.06.25 15:48:51,047][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :100
+[ INFO][2015.06.25 15:48:51,094][Thread-1](FileClientMain.java:115),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :7
+[ INFO][2015.06.25 15:48:51,203][Thread-1](FileClientMain.java:115),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :33
+[ INFO][2015.06.25 15:48:51,312][Thread-1](FileClientMain.java:115),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :58
+[ INFO][2015.06.25 15:48:51,421][Thread-1](FileClientMain.java:115),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :86
+[ INFO][2015.06.25 15:48:51,485][Thread-2](FileClientMain.java:115),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :0
+[ INFO][2015.06.25 15:48:51,531][Thread-1](FileClientMain.java:115),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :100
+[ INFO][2015.06.25 15:48:51,594][Thread-2](FileClientMain.java:115),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :100
+[ INFO][2015.06.25 16:29:53,639][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 16:29:53,741][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 16:29:53,844][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 16:29:53,917][Thread-1](FileClientMain.java:115),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :0
+[ INFO][2015.06.25 16:29:53,944][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :100
+[ INFO][2015.06.25 16:29:54,017][Thread-1](FileClientMain.java:115),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :6
+[ INFO][2015.06.25 16:29:54,118][Thread-1](FileClientMain.java:115),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :25
+[ INFO][2015.06.25 16:29:54,218][Thread-1](FileClientMain.java:115),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :48
+[ INFO][2015.06.25 16:29:54,318][Thread-1](FileClientMain.java:115),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :73
+[ INFO][2015.06.25 16:29:54,418][Thread-1](FileClientMain.java:115),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :94
+[ INFO][2015.06.25 16:29:54,446][Thread-2](FileClientMain.java:115),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :0
+[ INFO][2015.06.25 16:29:54,518][Thread-1](FileClientMain.java:115),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :100
+[ INFO][2015.06.25 16:29:54,546][Thread-2](FileClientMain.java:115),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :87
+[ INFO][2015.06.25 16:29:54,646][Thread-2](FileClientMain.java:115),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :100
+[ INFO][2015.06.25 17:01:30,095][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:30,199][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:30,299][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:30,399][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:30,499][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:30,599][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:30,701][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:30,801][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:30,901][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:31,001][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:31,101][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:31,201][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:31,301][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:31,401][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:31,501][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:31,601][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:31,703][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:31,803][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:31,903][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:32,003][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:32,103][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:32,203][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:32,303][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:32,403][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:32,503][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:32,603][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:32,703][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:32,803][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:32,903][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:33,003][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:33,103][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:33,203][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:33,303][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:33,403][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:33,503][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:33,603][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:33,703][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:33,803][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:33,903][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:34,003][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:34,103][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:34,203][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:34,303][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:34,403][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:34,503][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:34,604][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:34,704][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:34,804][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:34,904][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:35,004][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:35,104][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:35,204][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:35,304][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:35,404][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:35,504][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:35,604][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:35,704][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:35,804][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:35,904][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:36,004][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:36,104][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:36,204][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:36,304][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:36,404][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:36,504][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:01:36,604][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:02:38,156][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:02:38,258][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:02:38,330][pool-1-thread-1](FileClient.java:99),~~group.shutdownGracefully() 
+[ INFO][2015.06.25 17:02:38,358][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:02:38,459][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :100
+[ INFO][2015.06.25 17:02:38,559][Thread-1](FileClientMain.java:115),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :0
+[ INFO][2015.06.25 17:02:38,665][Thread-1](FileClientMain.java:115),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :1
+[ INFO][2015.06.25 17:02:38,765][Thread-1](FileClientMain.java:115),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :26
+[ INFO][2015.06.25 17:02:38,865][Thread-1](FileClientMain.java:115),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :50
+[ INFO][2015.06.25 17:02:38,965][Thread-1](FileClientMain.java:115),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :74
+[ INFO][2015.06.25 17:02:38,969][pool-1-thread-1](FileClient.java:99),~~group.shutdownGracefully() 
+[ INFO][2015.06.25 17:02:39,065][Thread-1](FileClientMain.java:115),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :99
+[ INFO][2015.06.25 17:02:39,165][Thread-1](FileClientMain.java:115),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :100
+[ INFO][2015.06.25 17:02:39,266][Thread-2](FileClientMain.java:115),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :0
+[ INFO][2015.06.25 17:02:39,308][pool-1-thread-1](FileClient.java:99),~~group.shutdownGracefully() 
+[ INFO][2015.06.25 17:02:39,366][Thread-2](FileClientMain.java:115),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :11
+[ INFO][2015.06.25 17:02:39,469][Thread-2](FileClientMain.java:115),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :100
+[ INFO][2015.06.25 17:05:02,938][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:05:03,040][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:05:03,116][pool-1-thread-1](FileClient.java:99),~~group.shutdownGracefully() 
+[ INFO][2015.06.25 17:05:03,140][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:05:03,241][Thread-0](FileClientMain.java:115),fileName=c:\Tulips.jpg progressBarStatus :100
+[ INFO][2015.06.25 17:05:03,341][Thread-1](FileClientMain.java:115),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :0
+[ INFO][2015.06.25 17:05:03,441][Thread-1](FileClientMain.java:115),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :8
+[ INFO][2015.06.25 17:05:03,541][Thread-1](FileClientMain.java:115),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :32
+[ INFO][2015.06.25 17:05:03,641][Thread-1](FileClientMain.java:115),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :57
+[ INFO][2015.06.25 17:05:03,718][pool-1-thread-1](FileClient.java:99),~~group.shutdownGracefully() 
+[ INFO][2015.06.25 17:05:03,741][Thread-1](FileClientMain.java:115),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :82
+[ INFO][2015.06.25 17:05:03,841][Thread-1](FileClientMain.java:115),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :100
+[ INFO][2015.06.25 17:05:03,941][Thread-2](FileClientMain.java:115),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :0
+[ INFO][2015.06.25 17:05:03,957][pool-1-thread-1](FileClient.java:99),~~group.shutdownGracefully() 
+[ INFO][2015.06.25 17:05:04,041][Thread-2](FileClientMain.java:115),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :60
+[ INFO][2015.06.25 17:05:04,141][Thread-2](FileClientMain.java:115),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :100
+[ INFO][2015.06.25 17:08:52,124][Thread-0](FileClientMain.java:72),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:08:52,226][Thread-0](FileClientMain.java:72),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:08:52,289][pool-1-thread-1](FileClient.java:97),~~group.shutdownGracefully() 
+[ INFO][2015.06.25 17:08:52,326][Thread-0](FileClientMain.java:72),fileName=c:\Tulips.jpg progressBarStatus :2
+[ INFO][2015.06.25 17:08:52,428][Thread-0](FileClientMain.java:72),fileName=c:\Tulips.jpg progressBarStatus :100
+[ INFO][2015.06.25 17:08:52,529][Thread-1](FileClientMain.java:72),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :0
+[ INFO][2015.06.25 17:08:52,630][Thread-1](FileClientMain.java:72),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :6
+[ INFO][2015.06.25 17:08:52,730][Thread-1](FileClientMain.java:72),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :30
+[ INFO][2015.06.25 17:08:52,830][Thread-1](FileClientMain.java:72),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :55
+[ INFO][2015.06.25 17:08:52,930][Thread-1](FileClientMain.java:72),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :73
+[ INFO][2015.06.25 17:08:52,939][pool-1-thread-1](FileClient.java:97),~~group.shutdownGracefully() 
+[ INFO][2015.06.25 17:08:53,030][Thread-1](FileClientMain.java:72),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :98
+[ INFO][2015.06.25 17:08:53,130][Thread-1](FileClientMain.java:72),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :100
+[ INFO][2015.06.25 17:08:53,230][Thread-2](FileClientMain.java:72),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :0
+[ INFO][2015.06.25 17:08:53,251][pool-1-thread-1](FileClient.java:97),~~group.shutdownGracefully() 
+[ INFO][2015.06.25 17:08:53,330][Thread-2](FileClientMain.java:72),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :49
+[ INFO][2015.06.25 17:08:53,431][Thread-2](FileClientMain.java:72),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :100
+[ INFO][2015.06.25 17:37:44,170][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:37:44,272][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:37:44,343][pool-1-thread-1](FileClient.java:97),~~group.shutdownGracefully() 
+[ INFO][2015.06.25 17:37:44,372][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:37:44,473][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :100
+[ INFO][2015.06.25 17:37:44,574][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :0
+[ INFO][2015.06.25 17:37:44,674][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :4
+[ INFO][2015.06.25 17:37:44,774][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :29
+[ INFO][2015.06.25 17:37:44,874][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :55
+[ INFO][2015.06.25 17:37:44,962][pool-1-thread-1](FileClient.java:97),~~group.shutdownGracefully() 
+[ INFO][2015.06.25 17:37:44,974][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :78
+[ INFO][2015.06.25 17:37:45,074][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :100
+[ INFO][2015.06.25 17:37:45,174][Thread-2](FileClientMain.java:62),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :0
+[ INFO][2015.06.25 17:37:45,207][pool-1-thread-1](FileClient.java:97),~~group.shutdownGracefully() 
+[ INFO][2015.06.25 17:37:45,274][Thread-2](FileClientMain.java:62),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :22
+[ INFO][2015.06.25 17:37:45,374][Thread-2](FileClientMain.java:62),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :100
+[ INFO][2015.06.25 17:38:15,078][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:38:15,180][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:38:15,250][pool-1-thread-1](FileClient.java:97),~~group.shutdownGracefully() 
+[ INFO][2015.06.25 17:38:15,280][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:38:15,381][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :100
+[ INFO][2015.06.25 17:38:15,481][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :0
+[ INFO][2015.06.25 17:38:15,581][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :6
+[ INFO][2015.06.25 17:38:15,681][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :32
+[ INFO][2015.06.25 17:38:15,781][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :57
+[ INFO][2015.06.25 17:38:15,853][pool-1-thread-1](FileClient.java:97),~~group.shutdownGracefully() 
+[ INFO][2015.06.25 17:38:15,881][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :82
+[ INFO][2015.06.25 17:38:15,981][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :100
+[ INFO][2015.06.25 17:38:16,081][Thread-2](FileClientMain.java:62),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :0
+[ INFO][2015.06.25 17:38:16,084][pool-1-thread-1](FileClient.java:97),~~group.shutdownGracefully() 
+[ INFO][2015.06.25 17:38:16,181][Thread-2](FileClientMain.java:62),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :95
+[ INFO][2015.06.25 17:38:16,281][Thread-2](FileClientMain.java:62),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :100
+[DEBUG][2015.06.25 17:39:16,629][pool-1-thread-1](InternalLoggerFactory.java:46),Using Log4J as the default logging framework
+[DEBUG][2015.06.25 17:39:16,634][pool-1-thread-1](MultithreadEventLoopGroup.java:41),-Dio.netty.eventLoopThreads: 8
+[DEBUG][2015.06.25 17:39:16,642][pool-1-thread-1](PlatformDependent0.java:75),java.nio.Buffer.address: available
+[DEBUG][2015.06.25 17:39:16,642][pool-1-thread-1](PlatformDependent0.java:83),sun.misc.Unsafe.theUnsafe: available
+[DEBUG][2015.06.25 17:39:16,642][pool-1-thread-1](PlatformDependent0.java:92),sun.misc.Unsafe.copyMemory: available
+[DEBUG][2015.06.25 17:39:16,643][pool-1-thread-1](PlatformDependent0.java:132),java.nio.Bits.unaligned: true
+[DEBUG][2015.06.25 17:39:16,643][pool-1-thread-1](PlatformDependent.java:466),Platform: Windows
+[DEBUG][2015.06.25 17:39:16,643][pool-1-thread-1](PlatformDependent.java:597),Java version: 8
+[DEBUG][2015.06.25 17:39:16,644][pool-1-thread-1](PlatformDependent.java:604),-Dio.netty.noUnsafe: false
+[DEBUG][2015.06.25 17:39:16,644][pool-1-thread-1](PlatformDependent.java:631),sun.misc.Unsafe: available
+[DEBUG][2015.06.25 17:39:16,644][pool-1-thread-1](PlatformDependent.java:714),-Dio.netty.noJavassist: false
+[DEBUG][2015.06.25 17:39:16,645][pool-1-thread-1](PlatformDependent.java:727),Javassist: unavailable
+[DEBUG][2015.06.25 17:39:16,645][pool-1-thread-1](PlatformDependent.java:728),You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+[DEBUG][2015.06.25 17:39:16,645][pool-1-thread-1](PlatformDependent.java:746),-Dio.netty.tmpdir: C:\Users\End-User\AppData\Local\Temp (java.io.tmpdir)
+[DEBUG][2015.06.25 17:39:16,646][pool-1-thread-1](PlatformDependent.java:825),-Dio.netty.bitMode: 32 (sun.arch.data.model)
+[DEBUG][2015.06.25 17:39:16,646][pool-1-thread-1](PlatformDependent.java:90),-Dio.netty.noPreferDirect: false
+[DEBUG][2015.06.25 17:39:16,666][pool-1-thread-1](NioEventLoop.java:89),-Dio.netty.noKeySetOptimization: false
+[DEBUG][2015.06.25 17:39:16,666][pool-1-thread-1](NioEventLoop.java:90),-Dio.netty.selectorAutoRebuildThreshold: 512
+[ INFO][2015.06.25 17:39:16,720][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :0
+[DEBUG][2015.06.25 17:39:16,763][pool-1-thread-1](ThreadLocalRandom.java:169),-Dio.netty.initialSeedUniquifier: 0x618a4f7717189c70 (took 8 ms)
+[DEBUG][2015.06.25 17:39:16,785][pool-1-thread-1](ByteBufUtil.java:61),-Dio.netty.allocator.type: unpooled
+[DEBUG][2015.06.25 17:39:16,785][pool-1-thread-1](ByteBufUtil.java:73),-Dio.netty.threadLocalDirectBufferSize: 65536
+[DEBUG][2015.06.25 17:39:16,800][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:98),-Dio.netty.allocator.numHeapArenas: 2
+[DEBUG][2015.06.25 17:39:16,801][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:99),-Dio.netty.allocator.numDirectArenas: 2
+[DEBUG][2015.06.25 17:39:16,801][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:101),-Dio.netty.allocator.pageSize: 8192
+[DEBUG][2015.06.25 17:39:16,801][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:106),-Dio.netty.allocator.maxOrder: 11
+[DEBUG][2015.06.25 17:39:16,801][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:110),-Dio.netty.allocator.chunkSize: 16777216
+[DEBUG][2015.06.25 17:39:16,801][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:111),-Dio.netty.allocator.tinyCacheSize: 512
+[DEBUG][2015.06.25 17:39:16,801][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:112),-Dio.netty.allocator.smallCacheSize: 256
+[DEBUG][2015.06.25 17:39:16,802][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:113),-Dio.netty.allocator.normalCacheSize: 64
+[DEBUG][2015.06.25 17:39:16,802][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:114),-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+[DEBUG][2015.06.25 17:39:16,802][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:115),-Dio.netty.allocator.cacheTrimInterval: 8192
+[DEBUG][2015.06.25 17:39:16,816][nioEventLoopGroup-2-1](ResourceLeakDetector.java:91),-Dio.netty.leakDetectionLevel: simple
+[DEBUG][2015.06.25 17:39:16,817][nioEventLoopGroup-2-1](Recycler.java:56),-Dio.netty.recycler.maxCapacity.default: 262144
+[ INFO][2015.06.25 17:39:16,820][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :0
+[DEBUG][2015.06.25 17:39:16,839][nioEventLoopGroup-2-1](Cleaner0.java:52),java.nio.ByteBuffer.cleaner(): available
+[ INFO][2015.06.25 17:39:16,900][pool-1-thread-1](FileClient.java:97),~~group.shutdownGracefully() 
+[ INFO][2015.06.25 17:39:16,920][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:39:17,020][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :100
+[ INFO][2015.06.25 17:39:17,120][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :0
+[ INFO][2015.06.25 17:39:17,220][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :2
+[ INFO][2015.06.25 17:39:17,320][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :26
+[ INFO][2015.06.25 17:39:17,420][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :51
+[ INFO][2015.06.25 17:39:17,512][pool-1-thread-1](FileClient.java:97),~~group.shutdownGracefully() 
+[ INFO][2015.06.25 17:39:17,520][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :77
+[ INFO][2015.06.25 17:39:17,620][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :100
+[ INFO][2015.06.25 17:39:17,720][Thread-2](FileClientMain.java:62),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :0
+[ INFO][2015.06.25 17:39:17,732][pool-1-thread-1](FileClient.java:97),~~group.shutdownGracefully() 
+[ INFO][2015.06.25 17:39:17,821][Thread-2](FileClientMain.java:62),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :71
+[ INFO][2015.06.25 17:39:17,921][Thread-2](FileClientMain.java:62),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :100
+[DEBUG][2015.06.25 17:39:19,107][nioEventLoopGroup-2-1](PoolThreadCache.java:228),Freed 2 thread-local buffer(s) from thread: nioEventLoopGroup-2-1
+[DEBUG][2015.06.25 17:39:19,712][nioEventLoopGroup-4-1](PoolThreadCache.java:228),Freed 2 thread-local buffer(s) from thread: nioEventLoopGroup-4-1
+[DEBUG][2015.06.25 17:39:19,932][nioEventLoopGroup-5-1](PoolThreadCache.java:228),Freed 2 thread-local buffer(s) from thread: nioEventLoopGroup-5-1
+[DEBUG][2015.06.25 17:46:49,118][pool-1-thread-1](InternalLoggerFactory.java:46),Using Log4J as the default logging framework
+[DEBUG][2015.06.25 17:46:49,123][pool-1-thread-1](MultithreadEventLoopGroup.java:41),-Dio.netty.eventLoopThreads: 8
+[DEBUG][2015.06.25 17:46:49,132][pool-1-thread-1](PlatformDependent0.java:75),java.nio.Buffer.address: available
+[DEBUG][2015.06.25 17:46:49,132][pool-1-thread-1](PlatformDependent0.java:83),sun.misc.Unsafe.theUnsafe: available
+[DEBUG][2015.06.25 17:46:49,133][pool-1-thread-1](PlatformDependent0.java:92),sun.misc.Unsafe.copyMemory: available
+[DEBUG][2015.06.25 17:46:49,133][pool-1-thread-1](PlatformDependent0.java:132),java.nio.Bits.unaligned: true
+[DEBUG][2015.06.25 17:46:49,133][pool-1-thread-1](PlatformDependent.java:466),Platform: Windows
+[DEBUG][2015.06.25 17:46:49,134][pool-1-thread-1](PlatformDependent.java:597),Java version: 8
+[DEBUG][2015.06.25 17:46:49,134][pool-1-thread-1](PlatformDependent.java:604),-Dio.netty.noUnsafe: false
+[DEBUG][2015.06.25 17:46:49,134][pool-1-thread-1](PlatformDependent.java:631),sun.misc.Unsafe: available
+[DEBUG][2015.06.25 17:46:49,134][pool-1-thread-1](PlatformDependent.java:714),-Dio.netty.noJavassist: false
+[DEBUG][2015.06.25 17:46:49,135][pool-1-thread-1](PlatformDependent.java:727),Javassist: unavailable
+[DEBUG][2015.06.25 17:46:49,135][pool-1-thread-1](PlatformDependent.java:728),You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+[DEBUG][2015.06.25 17:46:49,136][pool-1-thread-1](PlatformDependent.java:746),-Dio.netty.tmpdir: C:\Users\End-User\AppData\Local\Temp (java.io.tmpdir)
+[DEBUG][2015.06.25 17:46:49,136][pool-1-thread-1](PlatformDependent.java:825),-Dio.netty.bitMode: 32 (sun.arch.data.model)
+[DEBUG][2015.06.25 17:46:49,136][pool-1-thread-1](PlatformDependent.java:90),-Dio.netty.noPreferDirect: false
+[DEBUG][2015.06.25 17:46:49,157][pool-1-thread-1](NioEventLoop.java:89),-Dio.netty.noKeySetOptimization: false
+[DEBUG][2015.06.25 17:46:49,157][pool-1-thread-1](NioEventLoop.java:90),-Dio.netty.selectorAutoRebuildThreshold: 512
+[ INFO][2015.06.25 17:46:49,209][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :0
+[DEBUG][2015.06.25 17:46:49,251][pool-1-thread-1](ThreadLocalRandom.java:169),-Dio.netty.initialSeedUniquifier: 0xe4037fd62b8a7fb5 (took 7 ms)
+[DEBUG][2015.06.25 17:46:49,273][pool-1-thread-1](ByteBufUtil.java:61),-Dio.netty.allocator.type: unpooled
+[DEBUG][2015.06.25 17:46:49,273][pool-1-thread-1](ByteBufUtil.java:73),-Dio.netty.threadLocalDirectBufferSize: 65536
+[DEBUG][2015.06.25 17:46:49,292][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:98),-Dio.netty.allocator.numHeapArenas: 2
+[DEBUG][2015.06.25 17:46:49,292][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:99),-Dio.netty.allocator.numDirectArenas: 2
+[DEBUG][2015.06.25 17:46:49,292][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:101),-Dio.netty.allocator.pageSize: 8192
+[DEBUG][2015.06.25 17:46:49,292][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:106),-Dio.netty.allocator.maxOrder: 11
+[DEBUG][2015.06.25 17:46:49,292][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:110),-Dio.netty.allocator.chunkSize: 16777216
+[DEBUG][2015.06.25 17:46:49,292][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:111),-Dio.netty.allocator.tinyCacheSize: 512
+[DEBUG][2015.06.25 17:46:49,293][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:112),-Dio.netty.allocator.smallCacheSize: 256
+[DEBUG][2015.06.25 17:46:49,293][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:113),-Dio.netty.allocator.normalCacheSize: 64
+[DEBUG][2015.06.25 17:46:49,293][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:114),-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+[DEBUG][2015.06.25 17:46:49,293][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:115),-Dio.netty.allocator.cacheTrimInterval: 8192
+[DEBUG][2015.06.25 17:46:49,307][nioEventLoopGroup-2-1](ResourceLeakDetector.java:91),-Dio.netty.leakDetectionLevel: simple
+[DEBUG][2015.06.25 17:46:49,308][nioEventLoopGroup-2-1](Recycler.java:56),-Dio.netty.recycler.maxCapacity.default: 262144
+[ INFO][2015.06.25 17:46:49,309][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :0
+[DEBUG][2015.06.25 17:46:49,318][nioEventLoopGroup-2-1](FileClientHandler.java:67),handlerAdded
+[DEBUG][2015.06.25 17:46:49,323][nioEventLoopGroup-2-1](FileClientHandler.java:117),channelActive
+[DEBUG][2015.06.25 17:46:49,324][nioEventLoopGroup-2-1](FileClientHandler.java:118),mFilePathName:c:\Tulips.jpg
+[DEBUG][2015.06.25 17:46:49,328][nioEventLoopGroup-2-1](FileClientHandler.java:151),modern transfer
+[DEBUG][2015.06.25 17:46:49,330][nioEventLoopGroup-2-1](Cleaner0.java:52),java.nio.ByteBuffer.cleaner(): available
+[ INFO][2015.06.25 17:46:49,409][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:46:49,509][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:49,609][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:49,709][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:49,809][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:49,909][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:50,009][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:50,109][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:50,209][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:50,309][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:50,409][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:50,509][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:50,609][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:50,709][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:50,809][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:50,909][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:51,009][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:51,109][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:51,209][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:51,309][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:51,409][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:51,509][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:51,609][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:51,709][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:51,809][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:51,909][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:52,009][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:52,109][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:52,209][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:52,309][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:52,409][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:52,509][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:52,609][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:52,709][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:52,809][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:52,909][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:53,009][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:53,109][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:53,209][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:53,309][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:53,409][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:53,509][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:53,609][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:53,709][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:53,809][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:53,909][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:54,009][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:54,109][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:54,209][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:54,309][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:54,409][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:54,509][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:54,609][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:54,709][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:54,809][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:54,909][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:55,009][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:55,109][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:55,209][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:55,309][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:55,409][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:55,509][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:55,609][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:55,709][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:55,809][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:55,909][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:56,009][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:56,109][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:56,209][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:56,309][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:56,409][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:56,509][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:56,609][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:56,709][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:56,809][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:56,909][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:57,009][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:57,109][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:57,209][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:57,309][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:57,409][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:57,509][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:57,609][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:57,709][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:57,809][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:57,909][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:58,009][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:58,109][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:58,209][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:58,309][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:58,409][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:58,509][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:58,609][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:58,709][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:58,809][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:58,909][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:59,009][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:59,109][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:59,209][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:59,309][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:59,409][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:59,509][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:59,609][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:46:59,709][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[DEBUG][2015.06.25 17:47:18,178][pool-1-thread-1](InternalLoggerFactory.java:46),Using Log4J as the default logging framework
+[DEBUG][2015.06.25 17:47:18,182][pool-1-thread-1](MultithreadEventLoopGroup.java:41),-Dio.netty.eventLoopThreads: 8
+[DEBUG][2015.06.25 17:47:18,190][pool-1-thread-1](PlatformDependent0.java:75),java.nio.Buffer.address: available
+[DEBUG][2015.06.25 17:47:18,190][pool-1-thread-1](PlatformDependent0.java:83),sun.misc.Unsafe.theUnsafe: available
+[DEBUG][2015.06.25 17:47:18,191][pool-1-thread-1](PlatformDependent0.java:92),sun.misc.Unsafe.copyMemory: available
+[DEBUG][2015.06.25 17:47:18,191][pool-1-thread-1](PlatformDependent0.java:132),java.nio.Bits.unaligned: true
+[DEBUG][2015.06.25 17:47:18,191][pool-1-thread-1](PlatformDependent.java:466),Platform: Windows
+[DEBUG][2015.06.25 17:47:18,191][pool-1-thread-1](PlatformDependent.java:597),Java version: 8
+[DEBUG][2015.06.25 17:47:18,192][pool-1-thread-1](PlatformDependent.java:604),-Dio.netty.noUnsafe: false
+[DEBUG][2015.06.25 17:47:18,192][pool-1-thread-1](PlatformDependent.java:631),sun.misc.Unsafe: available
+[DEBUG][2015.06.25 17:47:18,192][pool-1-thread-1](PlatformDependent.java:714),-Dio.netty.noJavassist: false
+[DEBUG][2015.06.25 17:47:18,193][pool-1-thread-1](PlatformDependent.java:727),Javassist: unavailable
+[DEBUG][2015.06.25 17:47:18,193][pool-1-thread-1](PlatformDependent.java:728),You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+[DEBUG][2015.06.25 17:47:18,194][pool-1-thread-1](PlatformDependent.java:746),-Dio.netty.tmpdir: C:\Users\End-User\AppData\Local\Temp (java.io.tmpdir)
+[DEBUG][2015.06.25 17:47:18,194][pool-1-thread-1](PlatformDependent.java:825),-Dio.netty.bitMode: 32 (sun.arch.data.model)
+[DEBUG][2015.06.25 17:47:18,194][pool-1-thread-1](PlatformDependent.java:90),-Dio.netty.noPreferDirect: false
+[DEBUG][2015.06.25 17:47:18,213][pool-1-thread-1](NioEventLoop.java:89),-Dio.netty.noKeySetOptimization: false
+[DEBUG][2015.06.25 17:47:18,213][pool-1-thread-1](NioEventLoop.java:90),-Dio.netty.selectorAutoRebuildThreshold: 512
+[ INFO][2015.06.25 17:47:18,269][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :0
+[DEBUG][2015.06.25 17:47:18,304][pool-1-thread-1](ThreadLocalRandom.java:169),-Dio.netty.initialSeedUniquifier: 0x2837e65d18c012b4 (took 7 ms)
+[DEBUG][2015.06.25 17:47:18,325][pool-1-thread-1](ByteBufUtil.java:61),-Dio.netty.allocator.type: unpooled
+[DEBUG][2015.06.25 17:47:18,325][pool-1-thread-1](ByteBufUtil.java:73),-Dio.netty.threadLocalDirectBufferSize: 65536
+[DEBUG][2015.06.25 17:47:18,340][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:98),-Dio.netty.allocator.numHeapArenas: 2
+[DEBUG][2015.06.25 17:47:18,341][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:99),-Dio.netty.allocator.numDirectArenas: 2
+[DEBUG][2015.06.25 17:47:18,341][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:101),-Dio.netty.allocator.pageSize: 8192
+[DEBUG][2015.06.25 17:47:18,341][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:106),-Dio.netty.allocator.maxOrder: 11
+[DEBUG][2015.06.25 17:47:18,341][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:110),-Dio.netty.allocator.chunkSize: 16777216
+[DEBUG][2015.06.25 17:47:18,341][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:111),-Dio.netty.allocator.tinyCacheSize: 512
+[DEBUG][2015.06.25 17:47:18,341][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:112),-Dio.netty.allocator.smallCacheSize: 256
+[DEBUG][2015.06.25 17:47:18,342][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:113),-Dio.netty.allocator.normalCacheSize: 64
+[DEBUG][2015.06.25 17:47:18,342][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:114),-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+[DEBUG][2015.06.25 17:47:18,342][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:115),-Dio.netty.allocator.cacheTrimInterval: 8192
+[DEBUG][2015.06.25 17:47:18,356][nioEventLoopGroup-2-1](ResourceLeakDetector.java:91),-Dio.netty.leakDetectionLevel: simple
+[DEBUG][2015.06.25 17:47:18,358][nioEventLoopGroup-2-1](Recycler.java:56),-Dio.netty.recycler.maxCapacity.default: 262144
+[DEBUG][2015.06.25 17:47:18,367][nioEventLoopGroup-2-1](FileClientHandler.java:67),handlerAdded
+[ INFO][2015.06.25 17:47:18,369][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :0
+[DEBUG][2015.06.25 17:47:18,372][nioEventLoopGroup-2-1](FileClientHandler.java:117),channelActive
+[DEBUG][2015.06.25 17:47:18,372][nioEventLoopGroup-2-1](FileClientHandler.java:118),mFilePathName:c:\Tulips.jpg
+[DEBUG][2015.06.25 17:47:18,376][nioEventLoopGroup-2-1](FileClientHandler.java:151),modern transfer
+[DEBUG][2015.06.25 17:47:18,379][nioEventLoopGroup-2-1](Cleaner0.java:52),java.nio.ByteBuffer.cleaner(): available
+[ INFO][2015.06.25 17:47:18,469][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:47:18,569][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:47:18,669][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:47:18,769][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:47:18,869][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:47:18,887][nioEventLoopGroup-2-1](FileClientHandler.java:200),DONE:fileName[c:\Tulips.jpg] fileLength[620888] offset[620888]
+[ INFO][2015.06.25 17:47:18,887][pool-1-thread-1](FileClient.java:97),~~group.shutdownGracefully() 
+[DEBUG][2015.06.25 17:47:18,889][nioEventLoopGroup-2-1](FileClientHandler.java:77),handlerRemoved
+[ INFO][2015.06.25 17:47:18,969][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :40
+[ INFO][2015.06.25 17:47:19,069][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :100
+[DEBUG][2015.06.25 17:47:19,111][nioEventLoopGroup-4-1](FileClientHandler.java:67),handlerAdded
+[DEBUG][2015.06.25 17:47:19,112][nioEventLoopGroup-4-1](FileClientHandler.java:117),channelActive
+[DEBUG][2015.06.25 17:47:19,112][nioEventLoopGroup-4-1](FileClientHandler.java:118),mFilePathName:E:\UTIL\ML-3475ND\ML-3475_Print.zip
+[DEBUG][2015.06.25 17:47:19,113][nioEventLoopGroup-4-1](FileClientHandler.java:151),modern transfer
+[ INFO][2015.06.25 17:47:19,169][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :0
+[ INFO][2015.06.25 17:47:19,269][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :0
+[ INFO][2015.06.25 17:47:19,369][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :8
+[ INFO][2015.06.25 17:47:19,469][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :28
+[ INFO][2015.06.25 17:47:19,569][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :50
+[ INFO][2015.06.25 17:47:19,669][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :73
+[ INFO][2015.06.25 17:47:19,691][nioEventLoopGroup-4-1](FileClientHandler.java:200),DONE:fileName[E:\UTIL\ML-3475ND\ML-3475_Print.zip] fileLength[9550627] offset[9550627]
+[ INFO][2015.06.25 17:47:19,691][pool-1-thread-1](FileClient.java:97),~~group.shutdownGracefully() 
+[DEBUG][2015.06.25 17:47:19,691][nioEventLoopGroup-4-1](FileClientHandler.java:77),handlerRemoved
+[ INFO][2015.06.25 17:47:19,769][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :95
+[ INFO][2015.06.25 17:47:19,869][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :100
+[DEBUG][2015.06.25 17:47:19,882][nioEventLoopGroup-5-1](FileClientHandler.java:67),handlerAdded
+[DEBUG][2015.06.25 17:47:19,883][nioEventLoopGroup-5-1](FileClientHandler.java:117),channelActive
+[DEBUG][2015.06.25 17:47:19,883][nioEventLoopGroup-5-1](FileClientHandler.java:118),mFilePathName:E:\UTIL\PRINT_DRIVER\ML1750.zip
+[DEBUG][2015.06.25 17:47:19,884][nioEventLoopGroup-5-1](FileClientHandler.java:151),modern transfer
+[ INFO][2015.06.25 17:47:19,969][Thread-2](FileClientMain.java:62),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :0
+[ INFO][2015.06.25 17:47:19,997][nioEventLoopGroup-5-1](FileClientHandler.java:200),DONE:fileName[E:\UTIL\PRINT_DRIVER\ML1750.zip] fileLength[969474] offset[969474]
+[ INFO][2015.06.25 17:47:19,998][pool-1-thread-1](FileClient.java:97),~~group.shutdownGracefully() 
+[DEBUG][2015.06.25 17:47:19,998][nioEventLoopGroup-5-1](FileClientHandler.java:77),handlerRemoved
+[ INFO][2015.06.25 17:47:20,069][Thread-2](FileClientMain.java:62),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :33
+[ INFO][2015.06.25 17:47:20,169][Thread-2](FileClientMain.java:62),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :100
+[DEBUG][2015.06.25 17:47:21,096][nioEventLoopGroup-2-1](PoolThreadCache.java:228),Freed 2 thread-local buffer(s) from thread: nioEventLoopGroup-2-1
+[DEBUG][2015.06.25 17:47:21,892][nioEventLoopGroup-4-1](PoolThreadCache.java:228),Freed 2 thread-local buffer(s) from thread: nioEventLoopGroup-4-1
+[DEBUG][2015.06.25 17:47:22,198][nioEventLoopGroup-5-1](PoolThreadCache.java:228),Freed 2 thread-local buffer(s) from thread: nioEventLoopGroup-5-1
+[DEBUG][2015.06.25 17:49:13,030][pool-1-thread-1](InternalLoggerFactory.java:46),Using Log4J as the default logging framework
+[DEBUG][2015.06.25 17:49:13,034][pool-1-thread-1](MultithreadEventLoopGroup.java:41),-Dio.netty.eventLoopThreads: 8
+[DEBUG][2015.06.25 17:49:13,042][pool-1-thread-1](PlatformDependent0.java:75),java.nio.Buffer.address: available
+[DEBUG][2015.06.25 17:49:13,042][pool-1-thread-1](PlatformDependent0.java:83),sun.misc.Unsafe.theUnsafe: available
+[DEBUG][2015.06.25 17:49:13,043][pool-1-thread-1](PlatformDependent0.java:92),sun.misc.Unsafe.copyMemory: available
+[DEBUG][2015.06.25 17:49:13,043][pool-1-thread-1](PlatformDependent0.java:132),java.nio.Bits.unaligned: true
+[DEBUG][2015.06.25 17:49:13,043][pool-1-thread-1](PlatformDependent.java:466),Platform: Windows
+[DEBUG][2015.06.25 17:49:13,044][pool-1-thread-1](PlatformDependent.java:597),Java version: 8
+[DEBUG][2015.06.25 17:49:13,044][pool-1-thread-1](PlatformDependent.java:604),-Dio.netty.noUnsafe: false
+[DEBUG][2015.06.25 17:49:13,044][pool-1-thread-1](PlatformDependent.java:631),sun.misc.Unsafe: available
+[DEBUG][2015.06.25 17:49:13,044][pool-1-thread-1](PlatformDependent.java:714),-Dio.netty.noJavassist: false
+[DEBUG][2015.06.25 17:49:13,045][pool-1-thread-1](PlatformDependent.java:727),Javassist: unavailable
+[DEBUG][2015.06.25 17:49:13,045][pool-1-thread-1](PlatformDependent.java:728),You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+[DEBUG][2015.06.25 17:49:13,046][pool-1-thread-1](PlatformDependent.java:746),-Dio.netty.tmpdir: C:\Users\End-User\AppData\Local\Temp (java.io.tmpdir)
+[DEBUG][2015.06.25 17:49:13,046][pool-1-thread-1](PlatformDependent.java:825),-Dio.netty.bitMode: 32 (sun.arch.data.model)
+[DEBUG][2015.06.25 17:49:13,046][pool-1-thread-1](PlatformDependent.java:90),-Dio.netty.noPreferDirect: false
+[DEBUG][2015.06.25 17:49:13,066][pool-1-thread-1](NioEventLoop.java:89),-Dio.netty.noKeySetOptimization: false
+[DEBUG][2015.06.25 17:49:13,066][pool-1-thread-1](NioEventLoop.java:90),-Dio.netty.selectorAutoRebuildThreshold: 512
+[ INFO][2015.06.25 17:49:13,121][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :0
+[DEBUG][2015.06.25 17:49:13,159][pool-1-thread-1](ThreadLocalRandom.java:169),-Dio.netty.initialSeedUniquifier: 0xf5033c7732934b0c (took 7 ms)
+[DEBUG][2015.06.25 17:49:13,180][pool-1-thread-1](ByteBufUtil.java:61),-Dio.netty.allocator.type: unpooled
+[DEBUG][2015.06.25 17:49:13,180][pool-1-thread-1](ByteBufUtil.java:73),-Dio.netty.threadLocalDirectBufferSize: 65536
+[DEBUG][2015.06.25 17:49:13,196][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:98),-Dio.netty.allocator.numHeapArenas: 2
+[DEBUG][2015.06.25 17:49:13,196][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:99),-Dio.netty.allocator.numDirectArenas: 2
+[DEBUG][2015.06.25 17:49:13,197][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:101),-Dio.netty.allocator.pageSize: 8192
+[DEBUG][2015.06.25 17:49:13,197][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:106),-Dio.netty.allocator.maxOrder: 11
+[DEBUG][2015.06.25 17:49:13,197][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:110),-Dio.netty.allocator.chunkSize: 16777216
+[DEBUG][2015.06.25 17:49:13,197][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:111),-Dio.netty.allocator.tinyCacheSize: 512
+[DEBUG][2015.06.25 17:49:13,197][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:112),-Dio.netty.allocator.smallCacheSize: 256
+[DEBUG][2015.06.25 17:49:13,197][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:113),-Dio.netty.allocator.normalCacheSize: 64
+[DEBUG][2015.06.25 17:49:13,198][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:114),-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+[DEBUG][2015.06.25 17:49:13,198][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:115),-Dio.netty.allocator.cacheTrimInterval: 8192
+[DEBUG][2015.06.25 17:49:13,211][nioEventLoopGroup-2-1](ResourceLeakDetector.java:91),-Dio.netty.leakDetectionLevel: simple
+[DEBUG][2015.06.25 17:49:13,213][nioEventLoopGroup-2-1](Recycler.java:56),-Dio.netty.recycler.maxCapacity.default: 262144
+[ INFO][2015.06.25 17:49:13,221][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :0
+[DEBUG][2015.06.25 17:49:13,223][nioEventLoopGroup-2-1](FileClientHandler.java:67),handlerAdded
+[DEBUG][2015.06.25 17:49:13,228][nioEventLoopGroup-2-1](FileClientHandler.java:117),channelActive
+[DEBUG][2015.06.25 17:49:13,229][nioEventLoopGroup-2-1](FileClientHandler.java:118),mFilePathName:c:\Tulips.jpg
+[DEBUG][2015.06.25 17:49:13,230][nioEventLoopGroup-2-1](FileClientHandler.java:109),buffer.writerIndex()1024
+[DEBUG][2015.06.25 17:49:13,233][nioEventLoopGroup-2-1](FileClientHandler.java:151),modern transfer
+[DEBUG][2015.06.25 17:49:13,236][nioEventLoopGroup-2-1](Cleaner0.java:52),java.nio.ByteBuffer.cleaner(): available
+[DEBUG][2015.06.25 17:49:13,268][nioEventLoopGroup-2-1](FileClientHandler.java:253),channelRead0
+[ INFO][2015.06.25 17:49:13,312][nioEventLoopGroup-2-1](FileClientHandler.java:200),DONE:fileName[c:\Tulips.jpg] fileLength[620888] offset[620888]
+[ INFO][2015.06.25 17:49:13,312][pool-1-thread-1](FileClient.java:97),~~group.shutdownGracefully() 
+[DEBUG][2015.06.25 17:49:13,313][nioEventLoopGroup-2-1](FileClientHandler.java:77),handlerRemoved
+[ INFO][2015.06.25 17:49:13,321][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:49:13,421][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :100
+[DEBUG][2015.06.25 17:49:13,455][nioEventLoopGroup-4-1](FileClientHandler.java:67),handlerAdded
+[DEBUG][2015.06.25 17:49:13,456][nioEventLoopGroup-4-1](FileClientHandler.java:117),channelActive
+[DEBUG][2015.06.25 17:49:13,456][nioEventLoopGroup-4-1](FileClientHandler.java:118),mFilePathName:E:\UTIL\ML-3475ND\ML-3475_Print.zip
+[DEBUG][2015.06.25 17:49:13,456][nioEventLoopGroup-4-1](FileClientHandler.java:109),buffer.writerIndex()1024
+[DEBUG][2015.06.25 17:49:13,457][nioEventLoopGroup-4-1](FileClientHandler.java:151),modern transfer
+[DEBUG][2015.06.25 17:49:13,495][nioEventLoopGroup-4-1](FileClientHandler.java:253),channelRead0
+[ INFO][2015.06.25 17:49:13,521][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :0
+[ INFO][2015.06.25 17:49:13,621][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :2
+[ INFO][2015.06.25 17:49:13,721][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :24
+[ INFO][2015.06.25 17:49:13,821][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :47
+[ INFO][2015.06.25 17:49:13,921][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :70
+[ INFO][2015.06.25 17:49:13,952][nioEventLoopGroup-4-1](FileClientHandler.java:200),DONE:fileName[E:\UTIL\ML-3475ND\ML-3475_Print.zip] fileLength[9550627] offset[9550627]
+[ INFO][2015.06.25 17:49:13,953][pool-1-thread-1](FileClient.java:97),~~group.shutdownGracefully() 
+[DEBUG][2015.06.25 17:49:13,953][nioEventLoopGroup-4-1](FileClientHandler.java:77),handlerRemoved
+[ INFO][2015.06.25 17:49:14,021][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :93
+[ INFO][2015.06.25 17:49:14,121][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :100
+[DEBUG][2015.06.25 17:49:14,136][nioEventLoopGroup-5-1](FileClientHandler.java:67),handlerAdded
+[DEBUG][2015.06.25 17:49:14,137][nioEventLoopGroup-5-1](FileClientHandler.java:117),channelActive
+[DEBUG][2015.06.25 17:49:14,137][nioEventLoopGroup-5-1](FileClientHandler.java:118),mFilePathName:E:\UTIL\PRINT_DRIVER\ML1750.zip
+[DEBUG][2015.06.25 17:49:14,138][nioEventLoopGroup-5-1](FileClientHandler.java:109),buffer.writerIndex()1024
+[DEBUG][2015.06.25 17:49:14,138][nioEventLoopGroup-5-1](FileClientHandler.java:151),modern transfer
+[DEBUG][2015.06.25 17:49:14,176][nioEventLoopGroup-5-1](FileClientHandler.java:253),channelRead0
+[ INFO][2015.06.25 17:49:14,221][Thread-2](FileClientMain.java:62),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :0
+[ INFO][2015.06.25 17:49:14,240][nioEventLoopGroup-5-1](FileClientHandler.java:200),DONE:fileName[E:\UTIL\PRINT_DRIVER\ML1750.zip] fileLength[969474] offset[969474]
+[ INFO][2015.06.25 17:49:14,240][pool-1-thread-1](FileClient.java:97),~~group.shutdownGracefully() 
+[DEBUG][2015.06.25 17:49:14,240][nioEventLoopGroup-5-1](FileClientHandler.java:77),handlerRemoved
+[ INFO][2015.06.25 17:49:14,321][Thread-2](FileClientMain.java:62),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :56
+[ INFO][2015.06.25 17:49:14,421][Thread-2](FileClientMain.java:62),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :100
+[DEBUG][2015.06.25 17:49:15,521][nioEventLoopGroup-2-1](PoolThreadCache.java:228),Freed 2 thread-local buffer(s) from thread: nioEventLoopGroup-2-1
+[DEBUG][2015.06.25 17:49:16,155][nioEventLoopGroup-4-1](PoolThreadCache.java:228),Freed 2 thread-local buffer(s) from thread: nioEventLoopGroup-4-1
+[DEBUG][2015.06.25 17:49:16,441][nioEventLoopGroup-5-1](PoolThreadCache.java:228),Freed 2 thread-local buffer(s) from thread: nioEventLoopGroup-5-1
+[DEBUG][2015.06.25 17:50:55,368][pool-1-thread-1](InternalLoggerFactory.java:46),Using Log4J as the default logging framework
+[DEBUG][2015.06.25 17:50:55,373][pool-1-thread-1](MultithreadEventLoopGroup.java:41),-Dio.netty.eventLoopThreads: 8
+[DEBUG][2015.06.25 17:50:55,380][pool-1-thread-1](PlatformDependent0.java:75),java.nio.Buffer.address: available
+[DEBUG][2015.06.25 17:50:55,380][pool-1-thread-1](PlatformDependent0.java:83),sun.misc.Unsafe.theUnsafe: available
+[DEBUG][2015.06.25 17:50:55,381][pool-1-thread-1](PlatformDependent0.java:92),sun.misc.Unsafe.copyMemory: available
+[DEBUG][2015.06.25 17:50:55,381][pool-1-thread-1](PlatformDependent0.java:132),java.nio.Bits.unaligned: true
+[DEBUG][2015.06.25 17:50:55,381][pool-1-thread-1](PlatformDependent.java:466),Platform: Windows
+[DEBUG][2015.06.25 17:50:55,382][pool-1-thread-1](PlatformDependent.java:597),Java version: 8
+[DEBUG][2015.06.25 17:50:55,382][pool-1-thread-1](PlatformDependent.java:604),-Dio.netty.noUnsafe: false
+[DEBUG][2015.06.25 17:50:55,382][pool-1-thread-1](PlatformDependent.java:631),sun.misc.Unsafe: available
+[DEBUG][2015.06.25 17:50:55,382][pool-1-thread-1](PlatformDependent.java:714),-Dio.netty.noJavassist: false
+[DEBUG][2015.06.25 17:50:55,383][pool-1-thread-1](PlatformDependent.java:727),Javassist: unavailable
+[DEBUG][2015.06.25 17:50:55,383][pool-1-thread-1](PlatformDependent.java:728),You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+[DEBUG][2015.06.25 17:50:55,384][pool-1-thread-1](PlatformDependent.java:746),-Dio.netty.tmpdir: C:\Users\End-User\AppData\Local\Temp (java.io.tmpdir)
+[DEBUG][2015.06.25 17:50:55,384][pool-1-thread-1](PlatformDependent.java:825),-Dio.netty.bitMode: 32 (sun.arch.data.model)
+[DEBUG][2015.06.25 17:50:55,384][pool-1-thread-1](PlatformDependent.java:90),-Dio.netty.noPreferDirect: false
+[DEBUG][2015.06.25 17:50:55,403][pool-1-thread-1](NioEventLoop.java:89),-Dio.netty.noKeySetOptimization: false
+[DEBUG][2015.06.25 17:50:55,403][pool-1-thread-1](NioEventLoop.java:90),-Dio.netty.selectorAutoRebuildThreshold: 512
+[ INFO][2015.06.25 17:50:55,459][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :0
+[DEBUG][2015.06.25 17:50:55,495][pool-1-thread-1](ThreadLocalRandom.java:169),-Dio.netty.initialSeedUniquifier: 0x2008c196d8f20d04 (took 7 ms)
+[DEBUG][2015.06.25 17:50:55,516][pool-1-thread-1](ByteBufUtil.java:61),-Dio.netty.allocator.type: unpooled
+[DEBUG][2015.06.25 17:50:55,516][pool-1-thread-1](ByteBufUtil.java:73),-Dio.netty.threadLocalDirectBufferSize: 65536
+[DEBUG][2015.06.25 17:50:55,532][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:98),-Dio.netty.allocator.numHeapArenas: 2
+[DEBUG][2015.06.25 17:50:55,532][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:99),-Dio.netty.allocator.numDirectArenas: 2
+[DEBUG][2015.06.25 17:50:55,532][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:101),-Dio.netty.allocator.pageSize: 8192
+[DEBUG][2015.06.25 17:50:55,533][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:106),-Dio.netty.allocator.maxOrder: 11
+[DEBUG][2015.06.25 17:50:55,533][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:110),-Dio.netty.allocator.chunkSize: 16777216
+[DEBUG][2015.06.25 17:50:55,533][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:111),-Dio.netty.allocator.tinyCacheSize: 512
+[DEBUG][2015.06.25 17:50:55,533][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:112),-Dio.netty.allocator.smallCacheSize: 256
+[DEBUG][2015.06.25 17:50:55,533][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:113),-Dio.netty.allocator.normalCacheSize: 64
+[DEBUG][2015.06.25 17:50:55,534][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:114),-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+[DEBUG][2015.06.25 17:50:55,534][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:115),-Dio.netty.allocator.cacheTrimInterval: 8192
+[DEBUG][2015.06.25 17:50:55,548][nioEventLoopGroup-2-1](ResourceLeakDetector.java:91),-Dio.netty.leakDetectionLevel: simple
+[DEBUG][2015.06.25 17:50:55,549][nioEventLoopGroup-2-1](Recycler.java:56),-Dio.netty.recycler.maxCapacity.default: 262144
+[ INFO][2015.06.25 17:50:55,559][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :0
+[DEBUG][2015.06.25 17:50:55,559][nioEventLoopGroup-2-1](FileClientHandler.java:67),handlerAdded
+[DEBUG][2015.06.25 17:50:55,564][nioEventLoopGroup-2-1](FileClientHandler.java:117),channelActive
+[DEBUG][2015.06.25 17:50:55,564][nioEventLoopGroup-2-1](FileClientHandler.java:118),mFilePathName:c:\Tulips.jpg
+[DEBUG][2015.06.25 17:50:55,565][nioEventLoopGroup-2-1](FileClientHandler.java:109),buffer.writerIndex()1024
+[DEBUG][2015.06.25 17:50:55,569][nioEventLoopGroup-2-1](FileClientHandler.java:151),modern transfer
+[DEBUG][2015.06.25 17:50:55,571][nioEventLoopGroup-2-1](Cleaner0.java:52),java.nio.ByteBuffer.cleaner(): available
+[DEBUG][2015.06.25 17:50:55,600][nioEventLoopGroup-2-1](FileClientHandler.java:253),channelRead0
+[DEBUG][2015.06.25 17:50:55,601][nioEventLoopGroup-2-1](FileClientHandler.java:277),fileName :a6a94f3fcc7a4256a24406c9070761a3.jpg
+[ INFO][2015.06.25 17:50:55,642][nioEventLoopGroup-2-1](FileClientHandler.java:200),DONE:fileName[c:\Tulips.jpg] fileLength[620888] offset[620888]
+[ INFO][2015.06.25 17:50:55,643][pool-1-thread-1](FileClient.java:97),~~group.shutdownGracefully() 
+[DEBUG][2015.06.25 17:50:55,644][nioEventLoopGroup-2-1](FileClientHandler.java:77),handlerRemoved
+[ INFO][2015.06.25 17:50:55,659][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:50:55,759][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :100
+[DEBUG][2015.06.25 17:50:55,796][nioEventLoopGroup-4-1](FileClientHandler.java:67),handlerAdded
+[DEBUG][2015.06.25 17:50:55,797][nioEventLoopGroup-4-1](FileClientHandler.java:117),channelActive
+[DEBUG][2015.06.25 17:50:55,797][nioEventLoopGroup-4-1](FileClientHandler.java:118),mFilePathName:E:\UTIL\ML-3475ND\ML-3475_Print.zip
+[DEBUG][2015.06.25 17:50:55,798][nioEventLoopGroup-4-1](FileClientHandler.java:109),buffer.writerIndex()1024
+[DEBUG][2015.06.25 17:50:55,798][nioEventLoopGroup-4-1](FileClientHandler.java:151),modern transfer
+[DEBUG][2015.06.25 17:50:55,833][nioEventLoopGroup-4-1](FileClientHandler.java:253),channelRead0
+[DEBUG][2015.06.25 17:50:55,833][nioEventLoopGroup-4-1](FileClientHandler.java:277),fileName :b1381f9513054ad4a7684da050ad3d70.zip
+[ INFO][2015.06.25 17:50:55,859][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :0
+[ INFO][2015.06.25 17:50:55,959][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :2
+[ INFO][2015.06.25 17:50:56,059][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :26
+[ INFO][2015.06.25 17:50:56,159][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :48
+[ INFO][2015.06.25 17:50:56,259][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :72
+[ INFO][2015.06.25 17:50:56,280][nioEventLoopGroup-4-1](FileClientHandler.java:200),DONE:fileName[E:\UTIL\ML-3475ND\ML-3475_Print.zip] fileLength[9550627] offset[9550627]
+[DEBUG][2015.06.25 17:50:56,281][nioEventLoopGroup-4-1](FileClientHandler.java:77),handlerRemoved
+[ INFO][2015.06.25 17:50:56,282][pool-1-thread-1](FileClient.java:97),~~group.shutdownGracefully() 
+[ INFO][2015.06.25 17:50:56,359][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :96
+[ INFO][2015.06.25 17:50:56,459][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :100
+[DEBUG][2015.06.25 17:50:56,471][nioEventLoopGroup-5-1](FileClientHandler.java:67),handlerAdded
+[DEBUG][2015.06.25 17:50:56,471][nioEventLoopGroup-5-1](FileClientHandler.java:117),channelActive
+[DEBUG][2015.06.25 17:50:56,472][nioEventLoopGroup-5-1](FileClientHandler.java:118),mFilePathName:E:\UTIL\PRINT_DRIVER\ML1750.zip
+[DEBUG][2015.06.25 17:50:56,472][nioEventLoopGroup-5-1](FileClientHandler.java:109),buffer.writerIndex()1024
+[DEBUG][2015.06.25 17:50:56,472][nioEventLoopGroup-5-1](FileClientHandler.java:151),modern transfer
+[DEBUG][2015.06.25 17:50:56,504][nioEventLoopGroup-5-1](FileClientHandler.java:253),channelRead0
+[DEBUG][2015.06.25 17:50:56,504][nioEventLoopGroup-5-1](FileClientHandler.java:277),fileName :e90f01271c654473b4ba98f6e44e6119.zip
+[ INFO][2015.06.25 17:50:56,559][Thread-2](FileClientMain.java:62),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :0
+[ INFO][2015.06.25 17:50:56,566][nioEventLoopGroup-5-1](FileClientHandler.java:200),DONE:fileName[E:\UTIL\PRINT_DRIVER\ML1750.zip] fileLength[969474] offset[969474]
+[ INFO][2015.06.25 17:50:56,567][pool-1-thread-1](FileClient.java:97),~~group.shutdownGracefully() 
+[DEBUG][2015.06.25 17:50:56,567][nioEventLoopGroup-5-1](FileClientHandler.java:77),handlerRemoved
+[ INFO][2015.06.25 17:50:56,659][Thread-2](FileClientMain.java:62),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :82
+[ INFO][2015.06.25 17:50:56,759][Thread-2](FileClientMain.java:62),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :100
+[DEBUG][2015.06.25 17:50:57,850][nioEventLoopGroup-2-1](PoolThreadCache.java:228),Freed 2 thread-local buffer(s) from thread: nioEventLoopGroup-2-1
+[DEBUG][2015.06.25 17:50:58,482][nioEventLoopGroup-4-1](PoolThreadCache.java:228),Freed 2 thread-local buffer(s) from thread: nioEventLoopGroup-4-1
+[DEBUG][2015.06.25 17:50:58,767][nioEventLoopGroup-5-1](PoolThreadCache.java:228),Freed 2 thread-local buffer(s) from thread: nioEventLoopGroup-5-1
+[ INFO][2015.06.25 17:51:23,055][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:51:23,157][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:51:23,222][nioEventLoopGroup-2-1](FileClientHandler.java:200),DONE:fileName[c:\Tulips.jpg] fileLength[620888] offset[620888]
+[ INFO][2015.06.25 17:51:23,225][pool-1-thread-1](FileClient.java:97),~~group.shutdownGracefully() 
+[ INFO][2015.06.25 17:51:23,257][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:51:23,357][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :100
+[ INFO][2015.06.25 17:51:23,457][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :0
+[ INFO][2015.06.25 17:51:23,557][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :1
+[ INFO][2015.06.25 17:51:23,657][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :22
+[ INFO][2015.06.25 17:51:23,757][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :45
+[ INFO][2015.06.25 17:51:23,857][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :67
+[ INFO][2015.06.25 17:51:23,892][nioEventLoopGroup-4-1](FileClientHandler.java:200),DONE:fileName[E:\UTIL\ML-3475ND\ML-3475_Print.zip] fileLength[9550627] offset[9550627]
+[ INFO][2015.06.25 17:51:23,892][pool-1-thread-1](FileClient.java:97),~~group.shutdownGracefully() 
+[ INFO][2015.06.25 17:51:23,957][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :91
+[ INFO][2015.06.25 17:51:24,057][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :100
+[ INFO][2015.06.25 17:51:24,157][Thread-2](FileClientMain.java:62),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :0
+[ INFO][2015.06.25 17:51:24,178][nioEventLoopGroup-5-1](FileClientHandler.java:200),DONE:fileName[E:\UTIL\PRINT_DRIVER\ML1750.zip] fileLength[969474] offset[969474]
+[ INFO][2015.06.25 17:51:24,179][pool-1-thread-1](FileClient.java:97),~~group.shutdownGracefully() 
+[ INFO][2015.06.25 17:51:24,259][Thread-2](FileClientMain.java:62),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :51
+[ INFO][2015.06.25 17:51:24,359][Thread-2](FileClientMain.java:62),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :100
+[ INFO][2015.06.25 17:52:25,782][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:52:25,884][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :0
+[ INFO][2015.06.25 17:52:25,942][nioEventLoopGroup-2-1](FileClientHandler.java:200),DONE:fileName[c:\Tulips.jpg] fileLength[620888] offset[620888]
+[ INFO][2015.06.25 17:52:25,943][pool-1-thread-1](FileClient.java:97),~~group.shutdownGracefully() 
+[ INFO][2015.06.25 17:52:25,984][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :3
+[ INFO][2015.06.25 17:52:26,084][Thread-0](FileClientMain.java:62),fileName=c:\Tulips.jpg progressBarStatus :100
+[ INFO][2015.06.25 17:52:26,184][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :0
+[ INFO][2015.06.25 17:52:26,284][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :4
+[ INFO][2015.06.25 17:52:26,384][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :33
+[ INFO][2015.06.25 17:52:26,484][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :60
+[ INFO][2015.06.25 17:52:26,534][nioEventLoopGroup-4-1](FileClientHandler.java:200),DONE:fileName[E:\UTIL\ML-3475ND\ML-3475_Print.zip] fileLength[9550627] offset[9550627]
+[ INFO][2015.06.25 17:52:26,534][pool-1-thread-1](FileClient.java:97),~~group.shutdownGracefully() 
+[ INFO][2015.06.25 17:52:26,584][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :87
+[ INFO][2015.06.25 17:52:26,684][Thread-1](FileClientMain.java:62),fileName=E:\UTIL\ML-3475ND\ML-3475_Print.zip progressBarStatus :100
+[ INFO][2015.06.25 17:52:26,784][Thread-2](FileClientMain.java:62),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :0
+[ INFO][2015.06.25 17:52:26,801][nioEventLoopGroup-5-1](FileClientHandler.java:200),DONE:fileName[E:\UTIL\PRINT_DRIVER\ML1750.zip] fileLength[969474] offset[969474]
+[ INFO][2015.06.25 17:52:26,802][pool-1-thread-1](FileClient.java:97),~~group.shutdownGracefully() 
+[ INFO][2015.06.25 17:52:26,884][Thread-2](FileClientMain.java:62),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :53
+[ INFO][2015.06.25 17:52:26,984][Thread-2](FileClientMain.java:62),fileName=E:\UTIL\PRINT_DRIVER\ML1750.zip progressBarStatus :100

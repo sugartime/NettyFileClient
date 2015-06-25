@@ -1,0 +1,78 @@
+[DEBUG][2015.05.28 18:05:42,275][main](InternalLoggerFactory.java:46),Using Log4J as the default logging framework
+[DEBUG][2015.05.28 18:05:42,278][main](OpenSsl.java:50),netty-tcnative not in the classpath; OpenSslEngine will be unavailable.
+[DEBUG][2015.05.28 18:05:42,535][main](JdkSslContext.java:121),Default protocols (JDK): [TLSv1.2, TLSv1.1, TLSv1] 
+[DEBUG][2015.05.28 18:05:42,535][main](JdkSslContext.java:122),Default cipher suites (JDK): [TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, SSL_RSA_WITH_3DES_EDE_CBC_SHA, SSL_RSA_WITH_RC4_128_SHA]
+[DEBUG][2015.05.28 18:05:42,553][main](PlatformDependent0.java:75),java.nio.Buffer.address: available
+[DEBUG][2015.05.28 18:05:42,554][main](PlatformDependent0.java:83),sun.misc.Unsafe.theUnsafe: available
+[DEBUG][2015.05.28 18:05:42,554][main](PlatformDependent0.java:92),sun.misc.Unsafe.copyMemory: available
+[DEBUG][2015.05.28 18:05:42,554][main](PlatformDependent0.java:132),java.nio.Bits.unaligned: true
+[DEBUG][2015.05.28 18:05:42,555][main](PlatformDependent.java:466),Platform: Windows
+[DEBUG][2015.05.28 18:05:42,556][main](PlatformDependent.java:597),Java version: 8
+[DEBUG][2015.05.28 18:05:42,556][main](PlatformDependent.java:604),-Dio.netty.noUnsafe: false
+[DEBUG][2015.05.28 18:05:42,556][main](PlatformDependent.java:631),sun.misc.Unsafe: available
+[DEBUG][2015.05.28 18:05:42,556][main](PlatformDependent.java:714),-Dio.netty.noJavassist: false
+[DEBUG][2015.05.28 18:05:42,557][main](PlatformDependent.java:727),Javassist: unavailable
+[DEBUG][2015.05.28 18:05:42,557][main](PlatformDependent.java:728),You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+[DEBUG][2015.05.28 18:05:42,557][main](PlatformDependent.java:746),-Dio.netty.tmpdir: C:\Users\End-User\AppData\Local\Temp (java.io.tmpdir)
+[DEBUG][2015.05.28 18:05:42,558][main](PlatformDependent.java:825),-Dio.netty.bitMode: 32 (sun.arch.data.model)
+[DEBUG][2015.05.28 18:05:42,558][main](PlatformDependent.java:90),-Dio.netty.noPreferDirect: false
+[DEBUG][2015.05.28 18:05:42,563][main](ByteBufUtil.java:61),-Dio.netty.allocator.type: unpooled
+[DEBUG][2015.05.28 18:05:42,563][main](ByteBufUtil.java:73),-Dio.netty.threadLocalDirectBufferSize: 65536
+[DEBUG][2015.05.28 18:05:42,570][main](ResourceLeakDetector.java:91),-Dio.netty.leakDetectionLevel: simple
+[DEBUG][2015.05.28 18:05:42,575][main](Cleaner0.java:52),java.nio.ByteBuffer.cleaner(): available
+[DEBUG][2015.05.28 18:05:42,701][main](MultithreadEventLoopGroup.java:41),-Dio.netty.eventLoopThreads: 8
+[DEBUG][2015.05.28 18:05:42,715][main](NioEventLoop.java:89),-Dio.netty.noKeySetOptimization: false
+[DEBUG][2015.05.28 18:05:42,716][main](NioEventLoop.java:90),-Dio.netty.selectorAutoRebuildThreshold: 512
+[DEBUG][2015.05.28 18:05:42,790][main](ThreadLocalRandom.java:169),-Dio.netty.initialSeedUniquifier: 0x67a9cab703395657 (took 1 ms)
+[DEBUG][2015.05.28 18:05:42,823][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:98),-Dio.netty.allocator.numHeapArenas: 2
+[DEBUG][2015.05.28 18:05:42,823][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:99),-Dio.netty.allocator.numDirectArenas: 2
+[DEBUG][2015.05.28 18:05:42,824][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:101),-Dio.netty.allocator.pageSize: 8192
+[DEBUG][2015.05.28 18:05:42,824][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:106),-Dio.netty.allocator.maxOrder: 11
+[DEBUG][2015.05.28 18:05:42,824][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:110),-Dio.netty.allocator.chunkSize: 16777216
+[DEBUG][2015.05.28 18:05:42,824][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:111),-Dio.netty.allocator.tinyCacheSize: 512
+[DEBUG][2015.05.28 18:05:42,824][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:112),-Dio.netty.allocator.smallCacheSize: 256
+[DEBUG][2015.05.28 18:05:42,824][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:113),-Dio.netty.allocator.normalCacheSize: 64
+[DEBUG][2015.05.28 18:05:42,824][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:114),-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+[DEBUG][2015.05.28 18:05:42,825][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:115),-Dio.netty.allocator.cacheTrimInterval: 8192
+[DEBUG][2015.05.28 18:05:42,834][nioEventLoopGroup-2-1](Recycler.java:56),-Dio.netty.recycler.maxCapacity.default: 262144
+[DEBUG][2015.05.28 18:05:42,882][nioEventLoopGroup-2-1](SslHandler.java:1251),[id: 0xe09457cf, /172.22.105.163:5283 => /172.22.105.163:8992] HANDSHAKEN: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+[DEBUG][2015.05.28 18:05:45,385][nioEventLoopGroup-2-1](PoolThreadCache.java:228),Freed 1 thread-local buffer(s) from thread: nioEventLoopGroup-2-1
+[DEBUG][2015.05.28 18:07:16,955][main](InternalLoggerFactory.java:46),Using Log4J as the default logging framework
+[DEBUG][2015.05.28 18:07:16,958][main](OpenSsl.java:50),netty-tcnative not in the classpath; OpenSslEngine will be unavailable.
+[DEBUG][2015.05.28 18:07:17,216][main](JdkSslContext.java:121),Default protocols (JDK): [TLSv1.2, TLSv1.1, TLSv1] 
+[DEBUG][2015.05.28 18:07:17,216][main](JdkSslContext.java:122),Default cipher suites (JDK): [TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, SSL_RSA_WITH_3DES_EDE_CBC_SHA, SSL_RSA_WITH_RC4_128_SHA]
+[DEBUG][2015.05.28 18:07:17,235][main](PlatformDependent0.java:75),java.nio.Buffer.address: available
+[DEBUG][2015.05.28 18:07:17,235][main](PlatformDependent0.java:83),sun.misc.Unsafe.theUnsafe: available
+[DEBUG][2015.05.28 18:07:17,235][main](PlatformDependent0.java:92),sun.misc.Unsafe.copyMemory: available
+[DEBUG][2015.05.28 18:07:17,236][main](PlatformDependent0.java:132),java.nio.Bits.unaligned: true
+[DEBUG][2015.05.28 18:07:17,237][main](PlatformDependent.java:466),Platform: Windows
+[DEBUG][2015.05.28 18:07:17,237][main](PlatformDependent.java:597),Java version: 8
+[DEBUG][2015.05.28 18:07:17,237][main](PlatformDependent.java:604),-Dio.netty.noUnsafe: false
+[DEBUG][2015.05.28 18:07:17,237][main](PlatformDependent.java:631),sun.misc.Unsafe: available
+[DEBUG][2015.05.28 18:07:17,237][main](PlatformDependent.java:714),-Dio.netty.noJavassist: false
+[DEBUG][2015.05.28 18:07:17,238][main](PlatformDependent.java:727),Javassist: unavailable
+[DEBUG][2015.05.28 18:07:17,238][main](PlatformDependent.java:728),You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+[DEBUG][2015.05.28 18:07:17,239][main](PlatformDependent.java:746),-Dio.netty.tmpdir: C:\Users\End-User\AppData\Local\Temp (java.io.tmpdir)
+[DEBUG][2015.05.28 18:07:17,240][main](PlatformDependent.java:825),-Dio.netty.bitMode: 32 (sun.arch.data.model)
+[DEBUG][2015.05.28 18:07:17,240][main](PlatformDependent.java:90),-Dio.netty.noPreferDirect: false
+[DEBUG][2015.05.28 18:07:17,244][main](ByteBufUtil.java:61),-Dio.netty.allocator.type: unpooled
+[DEBUG][2015.05.28 18:07:17,245][main](ByteBufUtil.java:73),-Dio.netty.threadLocalDirectBufferSize: 65536
+[DEBUG][2015.05.28 18:07:17,251][main](ResourceLeakDetector.java:91),-Dio.netty.leakDetectionLevel: simple
+[DEBUG][2015.05.28 18:07:17,256][main](Cleaner0.java:52),java.nio.ByteBuffer.cleaner(): available
+[DEBUG][2015.05.28 18:07:17,381][main](MultithreadEventLoopGroup.java:41),-Dio.netty.eventLoopThreads: 8
+[DEBUG][2015.05.28 18:07:17,395][main](NioEventLoop.java:89),-Dio.netty.noKeySetOptimization: false
+[DEBUG][2015.05.28 18:07:17,395][main](NioEventLoop.java:90),-Dio.netty.selectorAutoRebuildThreshold: 512
+[DEBUG][2015.05.28 18:07:17,468][main](ThreadLocalRandom.java:169),-Dio.netty.initialSeedUniquifier: 0x9c20251d7e834896 (took 1 ms)
+[DEBUG][2015.05.28 18:07:17,500][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:98),-Dio.netty.allocator.numHeapArenas: 2
+[DEBUG][2015.05.28 18:07:17,500][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:99),-Dio.netty.allocator.numDirectArenas: 2
+[DEBUG][2015.05.28 18:07:17,501][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:101),-Dio.netty.allocator.pageSize: 8192
+[DEBUG][2015.05.28 18:07:17,501][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:106),-Dio.netty.allocator.maxOrder: 11
+[DEBUG][2015.05.28 18:07:17,501][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:110),-Dio.netty.allocator.chunkSize: 16777216
+[DEBUG][2015.05.28 18:07:17,501][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:111),-Dio.netty.allocator.tinyCacheSize: 512
+[DEBUG][2015.05.28 18:07:17,501][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:112),-Dio.netty.allocator.smallCacheSize: 256
+[DEBUG][2015.05.28 18:07:17,501][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:113),-Dio.netty.allocator.normalCacheSize: 64
+[DEBUG][2015.05.28 18:07:17,501][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:114),-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+[DEBUG][2015.05.28 18:07:17,502][nioEventLoopGroup-2-1](PooledByteBufAllocator.java:115),-Dio.netty.allocator.cacheTrimInterval: 8192
+[DEBUG][2015.05.28 18:07:17,511][nioEventLoopGroup-2-1](Recycler.java:56),-Dio.netty.recycler.maxCapacity.default: 262144
+[DEBUG][2015.05.28 18:07:17,558][nioEventLoopGroup-2-1](SslHandler.java:1251),[id: 0xdb0e74c6, /172.22.105.163:5317 => /172.22.105.163:8992] HANDSHAKEN: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+[DEBUG][2015.05.28 18:07:20,060][nioEventLoopGroup-2-1](PoolThreadCache.java:228),Freed 1 thread-local buffer(s) from thread: nioEventLoopGroup-2-1
