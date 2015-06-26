@@ -88,7 +88,18 @@ public final class FileClient {
 
             // Start the connection attempt.
             ChannelFuture f = b.connect(mHost, mPort).sync();
-            
+            f.awaitUninterruptibly();
+
+            if (f.isCancelled()) {
+                // Connection attempt cancelled by user
+            } else if (!f.isSuccess()) {
+                logger.debug("Netty Error !!!!!");
+                f.cause().printStackTrace();
+            } else {
+                // Connection established successfully
+            	logger.debug("Netty Connection Success !!");
+            }
+
             f.channel().closeFuture().sync();
            
            

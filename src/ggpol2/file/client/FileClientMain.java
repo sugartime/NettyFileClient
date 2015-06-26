@@ -29,9 +29,12 @@ public class FileClientMain {
         mArrFileList.add(rtnFiNmaeStatus("E:\\UTIL\\PRINT_DRIVER\\ML1750.zip"));
         
     	
+        
+        
     	//콜백연결
         FileClientHandler.setAsyncCallBack(fileAsyncCallBack);
-                       
+        
+        
     	ExecutorService executor = Executors.newCachedThreadPool();
     	   
 	    for(FileNameStatus obj : mArrFileList){
@@ -39,7 +42,7 @@ public class FileClientMain {
 		    Callable<FileClient> callable =   new Callable<FileClient>(){
 		          @Override
 		          public FileClient call() throws Exception {
-		              return new FileClient(false,obj.getStrFilePathName()).start();
+		              return new FileClient(true,obj.getStrFilePathName()).start();
 		          }
 		    };
 		    
@@ -59,7 +62,7 @@ public class FileClientMain {
 	                         e.printStackTrace();
 	                     }
 	            		 
-	            		 logger.info("fileName="+fileNmae+" progressBarStatus :"+progressBarStatus);
+	            		 logger.info("fileName="+fileNmae+" progressBarStatus :"+progressBarStatus+"%");
 	            	 }
 	                 
 	             }
@@ -67,17 +70,18 @@ public class FileClientMain {
 		    t.start();
 		    
 		    Future<FileClient> future = executor.submit(callable);
-		    		    
+	
 		    try{
 		    	t.join();
 		    }catch(InterruptedException e){
 		    	e.printStackTrace();
 		    }
-		    
+	
 		    FileClient result = future.get();
 	    }
 	    
 	    executor.shutdown();
+	   
     }
 
 	//콜백

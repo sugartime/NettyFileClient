@@ -76,9 +76,14 @@ public class FileClientHandler extends SimpleChannelInboundHandler<Object>{
 		// TODO Auto-generated method stub
 		logger.debug("handlerRemoved");
 
-		mPoolBuf.release();
-		mPoolBuf=null;
-		ctx.close();
+		if (ctx.channel().isActive()){
+            logger.debug("!!!!!! ctx.channel().isActive()");
+            ctx.close();
+            mPoolBuf.release();
+            mPoolBuf=null;
+        }
+				
+		
 		
 	}
 	
@@ -192,7 +197,7 @@ public class FileClientHandler extends SimpleChannelInboundHandler<Object>{
 					 offset += buffer.writerIndex();
 					 					 				
 					 //ChannelFuture chunkWriteFuture=future.channel().writeAndFlush(buffer);
-					 ChannelFuture chunkWriteFuture=ctx.writeAndFlush(buffer);
+					 ChannelFuture chunkWriteFuture=future.channel().writeAndFlush(buffer);
  		             if (offset < mFileLenth) {
  		            	 chunkWriteFuture.addListener(this);
 			         } else {
@@ -210,34 +215,40 @@ public class FileClientHandler extends SimpleChannelInboundHandler<Object>{
          } else {
         	
         	 
-        	 logger.debug("ssl transfer");
+        	 logger.info("ssl transfer");
              sendFileFuture = ctx.writeAndFlush(new ChunkedFile(raf, 0, fileLength, 8192),ctx.newProgressivePromise());
              sendFileFuture.addListener(new ChannelProgressiveFutureListener() {
 	             @Override
 	             public void operationProgressed(ChannelProgressiveFuture future, long progress, long total) {
+	            	 
+	            	 mPercent=(int)((progress*100)/mFileLenth);
+	            	 
 	                 if (total < 0) { // total unknown
-	                     logger.info(future.channel() + " Transfer progress: " + progress);
+	                    //logger.debug(future.channel() + " Transfer progress: " + progress+" Percentage: " + (int)mPercent+ "%");
 	                 } else {
-	                	 
-	                	 //mPercent=((progress*100)/total);
-	                	 logger.info(future.channel() + " Transfer progress: " + progress + " / " + total);
-	                	 //System.err.println("int progress:"+(int)progress+" int total:"+(int)total+" Percentace: " + (int)mPercent+ "%");
+	                	 //logger.info(future.channel() + " Transfer progress: " + progress + " / " + total);
+	                	 //logger.debug("int progress:"+(int)progress+" int total:"+(int)total+" Percentage: " + (int)mPercent+ "%");
 	                 }
+	                	                 	                 
+ 	                 //콜백에 전달
+					 FileNameStatus fileNameStauts = new FileNameStatus();
+					 fileNameStauts.setStrFilePathName(mFilePathName);
+					 fileNameStauts.setnFilePercent(mPercent);
+					 mFileAsyncCallBack.onResult(fileNameStauts);
 	             }
 	
 	             @Override
 	             public void operationComplete(ChannelProgressiveFuture future) {
 	                 logger.info(future.channel() + " Transfer complete.");
-	                 //lastContentFuture.addListener(ChannelFutureListener.CLOSE);
 	                 sendFileFuture.addListener(ChannelFutureListener.CLOSE);
-	                
-	                 //자원 해제
-	                 ctx.close();
-                 
+	                 
 	             }
 	         });
              
-            
+             //lastContentFuture = sendFileFuture;
+             //lastContentFuture.addListener(ChannelFutureListener.CLOSE);
+             //자원 해제
+             //ctx.close();
              
          }
          
@@ -252,11 +263,13 @@ public class FileClientHandler extends SimpleChannelInboundHandler<Object>{
 		// TODO Auto-generated method stub
 		logger.debug("channelRead0");
 		
+	
 		ByteBuf m = (ByteBuf) msg;
 		
 		ByteBuf buf=ctx.alloc().buffer(512);
 		
 		buf.writeBytes(m);
+		
 		
 		String newFileName = "";
 		if(buf.readableBytes()>=512){
@@ -281,11 +294,13 @@ public class FileClientHandler extends SimpleChannelInboundHandler<Object>{
 	        buf.readBytes(zeroBytes);
 		
 		}//if
+		
 	}
 
 
 	@Override
     public void exceptionCaught(ChannelHandlerContext ctx, Throwable cause) {
+		logger.info("exceptionCaught");
         cause.printStackTrace();
         ctx.close();
     }
