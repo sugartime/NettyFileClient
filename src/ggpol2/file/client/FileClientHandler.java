@@ -106,7 +106,7 @@ public class FileClientHandler extends SimpleChannelInboundHandler<Object>{
 		}
     	//ByteBuf buffer = m_pool_buf.alloc.buffer(file.getName().length() + 12);
     	
-    	ByteBuf buffer = mPoolBuf.alloc().buffer(1024);
+    	ByteBuf buffer = mPoolBuf.alloc().buffer(FileClientConstants.INIT_BUF_SIZE);
     	buffer.writeInt(f_name.length());		//파일이름 길이(4)
     	buffer.writeBytes(f_name.getBytes());	//파일이름에따라 틀림
         buffer.writeLong(file.length());		//파일크기(8)
@@ -175,7 +175,7 @@ public class FileClientHandler extends SimpleChannelInboundHandler<Object>{
 			                return;
 			            }
 					 
-					 ByteBuf buffer =  ctx.alloc().buffer(4096);
+					 ByteBuf buffer =  ctx.alloc().buffer(FileClientConstants.SND_BUF_SIZE);
 					 //ByteBuf buffer =mPoolBuf.alloc().buffer(4096);
 					 //buffer.clear();						 					 
 				
@@ -203,6 +203,10 @@ public class FileClientHandler extends SimpleChannelInboundHandler<Object>{
 			         } else {
 			                // Wrote the last chunk - close the connection if thewrite is done.
 			                logger.info("DONE:fileName["+mFilePathName+"] fileLength["+mFileLenth+"] offset["+offset+"]");
+			                
+			                fileNameStauts.setnFilePercent(100);
+			                mFileAsyncCallBack.onResult(fileNameStauts);
+			                
 			                chunkWriteFuture.addListener(ChannelFutureListener.CLOSE);
 			                fis.close();
 			                //ctx.close(); //close하면 안됨
@@ -216,7 +220,7 @@ public class FileClientHandler extends SimpleChannelInboundHandler<Object>{
         	
         	 
         	 logger.info("ssl transfer");
-             sendFileFuture = ctx.writeAndFlush(new ChunkedFile(raf, 0, fileLength, 8192),ctx.newProgressivePromise());
+             sendFileFuture = ctx.writeAndFlush(new ChunkedFile(raf, 0, fileLength, FileClientConstants.SND_BUF_SIZE),ctx.newProgressivePromise());
              sendFileFuture.addListener(new ChannelProgressiveFutureListener() {
 	             @Override
 	             public void operationProgressed(ChannelProgressiveFuture future, long progress, long total) {
@@ -240,6 +244,13 @@ public class FileClientHandler extends SimpleChannelInboundHandler<Object>{
 	             @Override
 	             public void operationComplete(ChannelProgressiveFuture future) {
 	                 logger.info(future.channel() + " Transfer complete.");
+	                 
+	                 //콜백에 전달
+	                 FileNameStatus fileNameStauts = new FileNameStatus();
+					 fileNameStauts.setStrFilePathName(mFilePathName);
+	                 fileNameStauts.setnFilePercent(mPercent);
+					 mFileAsyncCallBack.onResult(fileNameStauts);
+	                 
 	                 sendFileFuture.addListener(ChannelFutureListener.CLOSE);
 	                 
 	             }
@@ -266,13 +277,12 @@ public class FileClientHandler extends SimpleChannelInboundHandler<Object>{
 	
 		ByteBuf m = (ByteBuf) msg;
 		
-		ByteBuf buf=ctx.alloc().buffer(512);
+		ByteBuf buf=ctx.alloc().buffer(FileClientConstants.INIT_BUF_SIZE);
 		
 		buf.writeBytes(m);
 		
-		
-		String newFileName = "";
-		if(buf.readableBytes()>=512){
+
+		if(buf.readableBytes()>=FileClientConstants.INIT_BUF_SIZE){
 			
 			//파일이름 길이
 			int nNameLen = buf.readInt();
@@ -286,8 +296,8 @@ public class FileClientHandler extends SimpleChannelInboundHandler<Object>{
 	          
 	        	file_string += (char)bytesName[i];
 	        }
-	        String fileName=URLDecoder.decode(file_string,"UTF-8");
-	        logger.debug("fileName :"+fileName);
+	        String newFileName=URLDecoder.decode(file_string,"UTF-8");
+	        logger.info("newFileName :"+newFileName);
 	        
 	        //공백으로 채워진 곳 읽기
 	        byte[] zeroBytes = new byte[buf.readableBytes()];

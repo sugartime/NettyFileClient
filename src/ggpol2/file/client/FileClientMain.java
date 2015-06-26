@@ -42,7 +42,7 @@ public class FileClientMain {
 		    Callable<FileClient> callable =   new Callable<FileClient>(){
 		          @Override
 		          public FileClient call() throws Exception {
-		              return new FileClient(true,obj.getStrFilePathName()).start();
+		              return new FileClient(obj.getStrFilePathName()).start();
 		          }
 		    };
 		    
@@ -70,11 +70,17 @@ public class FileClientMain {
 		    t.start();
 		    
 		    Future<FileClient> future = executor.submit(callable);
+		    logger.info("future.isDone()"+future.isDone());
 	
-		    try{
-		    	t.join();
-		    }catch(InterruptedException e){
-		    	e.printStackTrace();
+		    if(future.isDone()) {
+			    try{
+			    	t.join();
+			    }catch(InterruptedException e){
+			    	e.printStackTrace();
+			    }
+		    }
+		    else {
+		    	t.interrupt();
 		    }
 	
 		    FileClient result = future.get();

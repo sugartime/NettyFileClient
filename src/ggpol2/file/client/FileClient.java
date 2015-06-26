@@ -31,20 +31,14 @@ public final class FileClient {
 
 	
 	private Logger logger = Logger.getLogger(this.getClass());
-	
-	static final int PORT 		= 8023;
-	static final int SSL_PORT 	= 8992;
 		
-	private boolean mIsSsl;
-    private String mHost = "127.0.0.1";
 	private int mPort;
 	
 	private String mFilePathName;
 		
     
-    public FileClient(boolean isSsl,String filePathName) {
-    	this.mIsSsl	= isSsl;
-		this.mPort = (this.mIsSsl ? SSL_PORT : PORT);
+    public FileClient(String filePathName) {
+    	this.mPort = (FileClientConstants.IS_SSL ? FileClientConstants.SSL_PORT : FileClientConstants.PORT);
 		this.mFilePathName=filePathName;
 		
     }
@@ -60,7 +54,7 @@ public final class FileClient {
    	 	
    	 	final SslContext sslCtx;
    	 	
-   	 	if(mIsSsl){
+   	 	if(FileClientConstants.IS_SSL){
    	 		sslCtx=SslContextBuilder.forClient().trustManager(InsecureTrustManagerFactory.INSTANCE).build();
    	 		//sslCtx=SslContextBuilder.forClient().keyManager(f_certificate, f_privatekey,"12345").build();
    	 	}else{
@@ -78,7 +72,7 @@ public final class FileClient {
                    public void initChannel(SocketChannel ch) throws Exception {
                        ChannelPipeline p = ch.pipeline();
                        if (sslCtx != null) {
-                           p.addLast(sslCtx.newHandler(ch.alloc(), mHost, mPort));
+                           p.addLast(sslCtx.newHandler(ch.alloc(), FileClientConstants.HOST, mPort));
                        }
                        p.addLast(new ChunkedWriteHandler(),
                     		     new FileClientHandler(mFilePathName));
@@ -87,17 +81,17 @@ public final class FileClient {
              
 
             // Start the connection attempt.
-            ChannelFuture f = b.connect(mHost, mPort).sync();
+            ChannelFuture f = b.connect(FileClientConstants.HOST, mPort).sync();
             f.awaitUninterruptibly();
 
             if (f.isCancelled()) {
                 // Connection attempt cancelled by user
             } else if (!f.isSuccess()) {
-                logger.debug("Netty Error !!!!!");
+                logger.fatal("Netty Error !!!!!");
                 f.cause().printStackTrace();
             } else {
                 // Connection established successfully
-            	logger.debug("Netty Connection Success !!");
+            	logger.fatal("Netty Connection Success !!");
             }
 
             f.channel().closeFuture().sync();
