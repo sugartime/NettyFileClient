@@ -1,10 +1,13 @@
 package ggpol2.file.client;
 
+import java.net.ConnectException;
 import java.util.ArrayList;
 import java.util.concurrent.Callable;
+import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
+import java.util.concurrent.FutureTask;
 
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
@@ -15,6 +18,8 @@ public class FileClientMain {
 	
 	//콜백 리턴값
 	private static ArrayList<FileNameStatus>mArrFileList=null;
+	
+	private static boolean mThreadStop =false;
 	
 	
 	
@@ -42,7 +47,14 @@ public class FileClientMain {
 		    Callable<FileClient> callable =   new Callable<FileClient>(){
 		          @Override
 		          public FileClient call() throws Exception {
-		              return new FileClient(obj.getStrFilePathName()).start();
+		        	  
+		        	  try{
+		        		  return new FileClient(obj.getStrFilePathName()).start();
+		        	  }catch(ConnectException e){
+		        		  logger.fatal("Connectin Time out!");
+		        		  return null;
+		        	  }
+		        	  
 		          }
 		    };
 		    
@@ -55,14 +67,21 @@ public class FileClientMain {
 	            	 String fileNmae = obj.getStrFilePathName();
 	            	 
 	            	 while(progressBarStatus<taskCnt){
+	            	
+	            		             		 	            		 
 	            		 progressBarStatus = obj.getnFilePercent();
+	            		 
+	            		 //if(mThreadStop)progressBarStatus=100;
+	            		 
+	            		 //if(mThreadStop) return;
+	            		 	            		 
 	            		 try {
 	                         Thread.sleep(100);
 	                     } catch (InterruptedException e) {
 	                         e.printStackTrace();
 	                     }
 	            		 
-	            		 logger.info("fileName="+fileNmae+" progressBarStatus :"+progressBarStatus+"%");
+	            		 logger.info("Thread.currentThread().isInterrupted()["+Thread.currentThread().isInterrupted()+"] mThreadStop["+mThreadStop+"] fileName["+fileNmae+"] progressBarStatus ["+progressBarStatus+"%]");
 	            	 }
 	                 
 	             }
@@ -70,20 +89,23 @@ public class FileClientMain {
 		    t.start();
 		    
 		    Future<FileClient> future = executor.submit(callable);
-		    logger.info("future.isDone()"+future.isDone());
-	
-		    if(future.isDone()) {
-			    try{
-			    	t.join();
-			    }catch(InterruptedException e){
-			    	e.printStackTrace();
-			    }
+		    logger.info("future.get() "+future.get());
+		    
+		    if(future.get()==null){
+		    	//t.interrupt();
+		    	fileAsyncCallBack.onStop(obj.getStrFilePathName());
+		    }else{
+		    	 try{
+				    	t.join();
+				    }catch(InterruptedException e){
+				    	e.printStackTrace();
+				    }
 		    }
-		    else {
-		    	t.interrupt();
-		    }
-	
-		    FileClient result = future.get();
+		    
+		    logger.info("future.isDone() "+future.isDone());
+		    
+		   
+		    //FileClient result = future.get();
 	    }
 	    
 	    executor.shutdown();
@@ -101,13 +123,25 @@ public class FileClientMain {
 	    		 }
 	    	 }
 	    }
-	
+	    	
 	    @Override
 	    public boolean onStart(boolean bStart) {
 	        return bStart;
 	    }
+	    
+	    
 	
 	    @Override
+		public void onStop(String filePathName) {
+	    	 for(FileNameStatus obj : mArrFileList){
+	    		 if(obj.getStrFilePathName().equals(filePathName)){
+	    			 obj.setnFilePercent(100);
+	    		 }
+	    	 }
+		}
+	    
+
+		@Override
 	    public boolean onComplete(boolean bComp) {
 	        return bComp;
 	    }
@@ -120,6 +154,19 @@ public class FileClientMain {
 		obj.setStrFilePathName(strFilePathName);
 		obj.setnFilePercent(0);
 		return obj;
+	}
+	
+	public class MyFutureTask extends FutureTask<Object> {
+
+	    public MyFutureTask(Runnable r) {
+	        super(r, null);
+	    }
+
+	    @Override
+	    protected void setException(Throwable t) {
+	        super.setException(t);
+	        System.err.println("Exception: " + t);
+	    }
 	}
 
 }

@@ -52,7 +52,7 @@ public class FileClientHandler extends SimpleChannelInboundHandler<Object>{
     public FileClientHandler(String filePathName){
         this.mFilePathName=filePathName;
         
-        mPoolBuf=PooledByteBufAllocator.DEFAULT.directBuffer(1048576);
+        mPoolBuf=PooledByteBufAllocator.DEFAULT.directBuffer(FileClientConstants.POOL_BUF_SIZE);
     }
     
     
@@ -66,7 +66,7 @@ public class FileClientHandler extends SimpleChannelInboundHandler<Object>{
 		// TODO Auto-generated method stub
 		logger.debug("handlerAdded");
 
-		mBuffer = mPoolBuf.alloc().buffer(4096);
+		mBuffer = mPoolBuf.alloc().buffer(FileClientConstants.SND_BUF_SIZE);
 		//mBuffer = ctx.alloc().buffer(4096);
 	}
 	
@@ -76,14 +76,21 @@ public class FileClientHandler extends SimpleChannelInboundHandler<Object>{
 		// TODO Auto-generated method stub
 		logger.debug("handlerRemoved");
 
+		/*
 		if (ctx.channel().isActive()){
             logger.debug("!!!!!! ctx.channel().isActive()");
             ctx.close();
             mPoolBuf.release();
             mPoolBuf=null;
-        }
+        }*/
 				
-		
+		 ctx.close();
+         mPoolBuf.release();
+         mPoolBuf=null;
+         
+         //콜백에 전달
+         //mFileAsyncCallBack.onStop(true);
+		 
 		
 	}
 	
@@ -110,8 +117,16 @@ public class FileClientHandler extends SimpleChannelInboundHandler<Object>{
     	buffer.writeInt(f_name.length());		//파일이름 길이(4)
     	buffer.writeBytes(f_name.getBytes());	//파일이름에따라 틀림
         buffer.writeLong(file.length());		//파일크기(8)
-        buffer.writeZero(buffer.capacity()-buffer.writerIndex());  //나머지 부분을 0으로 셋팅해서 버퍼크기를 맞춤
-        logger.debug("buffer.writerIndex()"+buffer.writerIndex());
+        int nFillZero = buffer.capacity()-buffer.writerIndex();
+        logger.info("nFillZero :"+nFillZero);
+        buffer.writeZero(nFillZero);  //나머지 부분을 0으로 셋팅해서 버퍼크기를 맞춤
+       
+        logger.info("f_name.length()["+f_name.length()+"] "
+        			+ " f_name.getBytes()["+f_name.getBytes().length+"] "
+       				+ " file.length()["+file.length()+"] "
+       				+ " buffer.capacity()["+buffer.capacity()+"] "
+       				+ " buffer.writerIndex()["+buffer.writerIndex()+"]"
+       				+ " buffer.writableBytes()["+buffer.writableBytes()+"]");
         
         return buffer;
     }
@@ -144,9 +159,12 @@ public class FileClientHandler extends SimpleChannelInboundHandler<Object>{
     	 
     	 ByteBuf bufferHead = initializeProtocol(file);
     	 
+    	 logger.info("bufferHead.capacity():"+bufferHead.capacity());
+    	 
     	 // Write the initial line and the header.
          ctx.writeAndFlush(bufferHead);
-
+         
+         
          // Write the content.
          final ChannelFuture sendFileFuture;
          ChannelFuture lastContentFuture;
@@ -190,14 +208,14 @@ public class FileClientHandler extends SimpleChannelInboundHandler<Object>{
 					 
 					 mFileAsyncCallBack.onResult(fileNameStauts);
 					 
-					 //logger.debug("SENDING: offset["+offset+"] fileLength["+mFileLenth+"] buffer.writableBytes()["+buffer.writableBytes()+"]");
+					 logger.info("SENDING: offset["+offset+"] fileLength["+mFileLenth+"] buffer.writableBytes()["+buffer.writableBytes()+"]");
 
 					 buffer.clear();
 					 buffer.writeBytes(fis,nWriteLen);
 					 offset += buffer.writerIndex();
 					 					 				
 					 //ChannelFuture chunkWriteFuture=future.channel().writeAndFlush(buffer);
-					 ChannelFuture chunkWriteFuture=future.channel().writeAndFlush(buffer);
+					 ChannelFuture chunkWriteFuture=ctx.writeAndFlush(buffer);
  		             if (offset < mFileLenth) {
  		            	 chunkWriteFuture.addListener(this);
 			         } else {
@@ -264,6 +282,8 @@ public class FileClientHandler extends SimpleChannelInboundHandler<Object>{
          }
          
          
+         
+         
     	
          
       
@@ -300,7 +320,7 @@ public class FileClientHandler extends SimpleChannelInboundHandler<Object>{
 	        logger.info("newFileName :"+newFileName);
 	        
 	        //공백으로 채워진 곳 읽기
-	        byte[] zeroBytes = new byte[buf.readableBytes()];
+	        byte[] zeroBytes = new byte[FileClientConstants.INIT_BUF_SIZE-buf.readerIndex()];
 	        buf.readBytes(zeroBytes);
 		
 		}//if
